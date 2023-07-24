@@ -2,7 +2,7 @@
 
 A beautiful single page website for a hypothetical cafe. You can view it [Here](https://patio-cafe-499.superhi.hosting/)
 
-To be honest, there wasn't much to learn in terms of code but some of the new concepts new concepts I did learned included;
+Some of the new concepts I learned while doing this project were;
 
 1. Modifying `background-image` to repeat
 2. Leveraging Semantic HTML in code
