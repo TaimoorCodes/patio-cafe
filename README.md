@@ -12,4 +12,4 @@ Some of the new concepts I learned while doing this project were;
 6. Why classes are a better way of selecting HTML elements
 7. I also learned a new tag called `<blockquote>`
 
-That's not all, the course instructor Lawrence also explain responsive design principles and gave a little taste on using media queries to conditionally apply styles to various screen widths.
+That's not all, the course instructor Lawrence also explained responsive design principles and gave a little taste in using media queries to conditionally apply styles to various screen widths.
